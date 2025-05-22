@@ -1,0 +1,8 @@
+C:/Users/Ld/Desktop/ChenPin/lin/Yolo_Recognition/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/CMakeFiles/Yolo_Recognition.dir
+C:/Users/Ld/Desktop/ChenPin/lin/Yolo_Recognition/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/Ld/Desktop/ChenPin/lin/Yolo_Recognition/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Ld/Desktop/ChenPin/lin/Yolo_Recognition/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/Ld/Desktop/ChenPin/lin/Yolo_Recognition/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/CMakeFiles/install.dir
+C:/Users/Ld/Desktop/ChenPin/lin/Yolo_Recognition/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/CMakeFiles/install/local.dir
+C:/Users/Ld/Desktop/ChenPin/lin/Yolo_Recognition/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/CMakeFiles/Yolo_Recognition_autogen_timestamp_deps.dir
+C:/Users/Ld/Desktop/ChenPin/lin/Yolo_Recognition/build/Desktop_Qt_6_8_2_MSVC2022_64bit-Release/CMakeFiles/Yolo_Recognition_autogen.dir
