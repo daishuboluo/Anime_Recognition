@@ -2,6 +2,6 @@
 yolov11在qt/C++上使用CUDA加速推理
 
 
-<img src="img/yolo.png" style="border-radius: 10px; height: 100px; display: block; margin: 0 auto;">
+<img src="IMG/yolo.png" style="border-radius: 10px; height: 100px; display: block; margin: 0 auto;">
 
 
