@@ -1,0 +1,28 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+# COCO8 数据集（来自 COCO train2017 的前 8 张图像）由 Ultralytics 提供
+# 文档：https://docs.ultralytics.com/datasets/detect/coco8/
+# 示例用法：yolo train data=coco8.yaml
+# parent
+# ├── ultralytics
+# └── datasets
+#     └── coco8  ← 下载到这里（1 MB）
+
+# 训练/验证/测试集形式：1）目录：path/to/imgs，2）文件：path/to/imgs.txt，或 3）列表：[path/to/imgs1, path/to/imgs2, ..]
+path: C:/Users/Ld/Desktop/ChenPin/src/Label_File # 数据集根目录
+train: images/train # 训练图像（相对于'path'）4张图像
+val: images/val # 验证图像（相对于'path'）4张图像
+test:  images/test # 测试图像（相对于'path'）4张图像
+
+# 类别
+names:
+  0: YakishioRemon
+  1: YanamiAnna
+  2: AsagumoChihaya
+  3: TsukinokiKoto
+  4: KomariChika
+
+
+
+
+
