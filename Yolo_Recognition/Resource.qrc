@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>Resource/shapes.frag</file>
+        <file>Resource/shapes.vert</file>
+        <file>Resource/1.jpg</file>
+        <file>Resource/2.jpg</file>
+    </qresource>
+</RCC>
